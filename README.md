@@ -11,9 +11,9 @@ Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or
 
 ## 🛠️ Skills & Tools
 
-- **Automation**: Selenium WebDriver (Java), C# scripts, TestNG
-- **Manual Testing**: Test case design, bug reporting, ISTQB principles
-- **Languages**: Java, C# (.NET), Python, JavaScript
+- **Automation**: Selenium WebDriver (Java), C# scripts, TestNG  
+- **Manual Testing**: Test case design, bug reporting, ISTQB principles  
+- **Languages**: Java, C# (.NET), Python, JavaScript  
 - **Other**: Git, GitHub, Web testing (e-commerce & booking flows)
 
 ---
@@ -26,8 +26,8 @@ Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or
 
 ## 📬 Let's Connect
 
-- LinkedIn: [put your LinkedIn URL here]
-- Email: [your professional email]
+- LinkedIn: [put your LinkedIn URL here]  
+- Email: [your professional email]  
 - Location: Cape Town, South Africa
 
 ---
