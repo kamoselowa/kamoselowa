@@ -26,8 +26,9 @@ Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or
 
 ## 📬 Let's Connect
 
-- LinkedIn: [put your LinkedIn URL here]  
-- Email: [your professional email]  
+- LinkedIn: [www.linkedin.com/in/kamogelo-selowa-488867221]
+- 
+- Email: [kamoselowa@gmail.com]  
 - Location: Cape Town, South Africa
 
 ---
