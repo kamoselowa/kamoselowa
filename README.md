@@ -1,43 +1,35 @@
-# Kamogelo Selowa - QA & Test Automation Portfolio
+# Kamogelo Selowa – QA & Test Automation Portfolio
 
-**ISTQB Certified Tester** | Cape Town, South Africa  
+**ISTQB Certified Tester** | Cape Town, South Africa ☕️
 
-Passionate about delivering high-quality software through manual testing principles and reliable automation. ISTQB Foundation Level certified with hands-on experience building Selenium WebDriver frameworks in Java and C# automation scripts.
+I’m a passionate QA professional with ISTQB Foundation Level certification.  
+I combine manual testing best practices with hands-on test automation using Selenium WebDriver in Java and C#.
 
-Open to **Junior QA / Test Automation Engineer** roles in Cape Town or remote.
+Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or remote.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Test Automation**: Selenium WebDriver, Java, C#, TestNG
-- **Manual Testing**: Test case design, bug reporting, ISTQB methodologies
-- **Programming**: Java, C# (.NET), Python, JavaScript
-- **Other**: Git, GitHub, REST APIs, Web testing, E-commerce & booking flows
-- **Certifications**: ISTQB Foundation Level
+- **Automation**: Selenium WebDriver (Java), C# scripts, TestNG
+- **Manual Testing**: Test case design, bug reporting, ISTQB principles
+- **Languages**: Java, C# (.NET), Python, JavaScript
+- **Other**: Git, GitHub, Web testing (e-commerce & booking flows)
 
 ---
 
 ## 📂 Featured Projects
 
-(Coming soon — these will link to your best automation repos)
-
-- **Facebook Automation Framework** (Java + Selenium)  
-- **Flysafair Web Automation** (Selenium tests)  
-- **Hackerrank Automation Scripts**  
-- **C# Automation Tests** (aspnetawesome.com)
-
-More projects will be added and documented here.
+(We'll add clean links and descriptions here in the next steps — starting soon)
 
 ---
 
-## 📬 Get in Touch
+## 📬 Let's Connect
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: [yourprofessional@email.com]
+- LinkedIn: [put your LinkedIn URL here]
+- Email: [your professional email]
 - Location: Cape Town, South Africa
-- Available for junior QA and test automation opportunities
 
 ---
 
-Made with ☕️ | Last updated: April 2026
+Built with ☕️ | Last updated: April 2026
