@@ -83,3 +83,4 @@ Open to junior QA and test automation opportunities.
 ---
 
 Built with ☕️ | Last updated: April 2026
+![snake gif](https://github.com/kamoselowa/kamoselowa/blob/output/github-snake-dark.svg)
