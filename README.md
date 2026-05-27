@@ -23,6 +23,8 @@ Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
+<img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="40"/>
+
 ---
 
 ## 📂 Featured Projects
