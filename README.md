@@ -89,7 +89,7 @@ More projects and detailed documentation (screenshots, setup instructions, what 
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="[https://www.hackerrank.com](https://www.hackerrank.com/profile/kamoselowa)">
+<a href="https://www.hackerrank.com/profile/kamoselowa">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
 
