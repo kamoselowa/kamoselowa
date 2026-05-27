@@ -93,7 +93,7 @@ More projects and detailed documentation (screenshots, setup instructions, what 
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
 </a>
 
-<a href="https://www.freecodecamp.org">
+<a href="https://www.freecodecamp.org/certification/jordan22/responsive-web-design">
   <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp" />
 </a>
 
