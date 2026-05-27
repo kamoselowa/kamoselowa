@@ -74,9 +74,35 @@ More projects and detailed documentation (screenshots, setup instructions, what 
 
 ## 📬 Let's Connect
 
-- **LinkedIn**: [www.linkedin.com/in/kamogelo-selowa-488867221](https://www.linkedin.com/in/kamogelo-selowa-488867221)  
-- **Email**: kamoselowa@gmail.com  
-- **Location**: Cape Town, South Africa  
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kamogelo-selowa-488867221">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:kamoselowa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.hackerrank.com">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<a href="https://www.freecodecamp.org">
+  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp" />
+</a>
+
+<a href="https://www.google.com/maps/place/Cape+Town">
+  <img src="https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps" />
+</a>
+
+</p>
+
 
 Open to junior QA and test automation opportunities.
 
