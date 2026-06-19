@@ -57,7 +57,7 @@ Currently open to **Junior QA / Test Automation Engineer** roles in Cape Town or
 Here are my key test automation projects:
 
 - **[OddRhymes Automation Framework](https://github.com/kamoselowa/OddRhymesAutomationFramework)**  
-  Selenium WebDriver automation in Java using EdgeDriver. Covers Facebook login and basic user flows.
+  Selenium WebDriver automation in Java using Chromedriver. Covers OddRhymes full website automation intergrated with ci cd with extent reports.
 
 - **[Hackerrank Web Automation](https://github.com/kamoselowa/OddRhymesAutomationFramework)**  
   Java-based Selenium scripts for automating Hackerrank challenges and web interactions.
